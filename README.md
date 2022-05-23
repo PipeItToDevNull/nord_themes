@@ -2,6 +2,6 @@
 Nord themes for various applications
 
 ## Applications
-RoyalTS(X)
-Notepad++
-Tabby
+* RoyalTS(X)
+* Notepad++
+* Tabby
