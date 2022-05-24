@@ -11,4 +11,4 @@ Nord themes for various applications
 * MobaXTerm
   * Copy the Color block into your `MobaXTerm.ini` to overwrite the current color scheme
 * Windows Terminal
-  * Copy the code block into your `settings.ini` file which can be located with the [official docs](https://docs.microsoft.com/en-us/windows/terminal/install#settings-json-file). Then choose it in the terminal settings pane.
+  * Copy the code block into your `settings.json` file which can be located with the [official docs](https://docs.microsoft.com/en-us/windows/terminal/install#settings-json-file). Then choose it in the terminal settings pane.
