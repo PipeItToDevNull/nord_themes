@@ -4,12 +4,12 @@
   "colors": [
     {
       "name": "Foreground",
-      "color": "#ECEFF4",
+      "color": "#2E3440",
       "terminalMapping": "foreground"
     },
     {
       "name": "Background",
-      "color": "#2E3440",
+      "color": "#ECEFF4",
       "terminalMapping": "background"
     },
     {
